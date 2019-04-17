@@ -3,7 +3,7 @@
 
 	<channel>
 		<tittle>Mi canal de RSS</tittle>
-		<link></link>
+		<link>https://jonilerna.github.io/pacuf02/</link>
 		<description>Noticias de actualidad</description>
 		<item>
 			<tittle>Noticia de actualidad</tittle>
